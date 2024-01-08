@@ -11,8 +11,8 @@
 /* Class = "UIButton"; normalTitle = "重新生成二维码"; ObjectID = "AnH-0K-2tX"; */
 "AnH-0K-2tX.normalTitle" = "重新生成二维码";
 
-/* Class = "UILabel"; text = "1 请打开BiliBili官方手机客户端扫码登录  2. 如果登录失败尝试点击重新生成二维码"; ObjectID = "C1r-RI-xZ8"; */
-"C1r-RI-xZ8.text" = "1 请打开BiliBili官方手机客户端扫码登录  2. 如果登录失败尝试点击重新生成二维码";
+/* Class = "UILabel"; text = "1 请打开BiliBili官方手机客户端扫码登录2. 如果登录失败尝试点击“重新生成二维码”"; ObjectID = "C1r-RI-xZ8"; */
+"C1r-RI-xZ8.text" = "1 请打开BiliBili官方手机客户端扫码登录2. 如果登录失败尝试点击重新生成二维码";
 
 /* Class = "UILabel"; text = "note"; ObjectID = "Nbz-Ga-vnB"; */
 "Nbz-Ga-vnB.text" = "note";
